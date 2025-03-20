@@ -1,3 +1,3 @@
 # Gittutorial
-<br>
-Vydurya Patil git hub tutorial
+Vydurya Patil 
+git hub tutorial
